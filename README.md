@@ -93,10 +93,6 @@ Open `index.html` in your preferred web browser.
 * Backend Authentication Integration
 * Social Media Login
 
-## 📸 Screenshots
-
-Add screenshots of your login interface here.
-
 ## 📄 License
 
 This project is licensed under the MIT License.
